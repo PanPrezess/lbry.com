@@ -3,7 +3,7 @@ title: Is there a standalone wallet?
 category: wallet
 ---
 
-Yes, please visit [Coinomi](http://www.coinomi.com) to download their excellent and easy to use wallet. You can also use the [LBRY Desktop App](https://lbry.com/get) or [lbry.tv](https://lbry.tv) simply as a wallet. 
+Yes, please visit [Coinomi](http://www.coinomi.com) or [Enjin](https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet) to download their excellent and easy to use wallet. You can also use the [LBRY Desktop App](https://lbry.com/get) or [lbry.tv](https://lbry.tv) simply as a wallet. 
 
 For technical users, we have
 
